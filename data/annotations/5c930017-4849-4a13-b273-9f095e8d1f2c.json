@@ -1,0 +1,139 @@
+{
+  "event_id": "0072bfbb-8bb5-4ac4-97ae-4fe2faf74c96",
+  "source_id": "2d4e4e8a-3cb3-4aa0-9912-267cd9d790a5",
+  "set": "Black Joy in Song, 2024 September 21 [UA0017-DO-0015] [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 85,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "fcf181e6-fad7-4979-a2b7-00ba70a7563a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 85,
+      "annotation": [
+        {
+          "text": "Opening remarks by Sonya Baker"
+        }
+      ],
+      "tags": [],
+      "uuid": "bc6d25e6-28d7-4050-9088-cf2499dc126c"
+    },
+    {
+      "start_time": 85,
+      "end_time": 527,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "c178be10-565a-4b5f-86ce-e3008fb372db"
+    },
+    {
+      "start_time": 85,
+      "end_time": 527,
+      "annotation": [
+        {
+          "text": "Albert Lee, Jeremiah Padilla, and Sonya Baker perform"
+        }
+      ],
+      "tags": [],
+      "uuid": "3ad53a66-b6b1-479b-ac28-73cb849a8a8e"
+    },
+    {
+      "start_time": 527,
+      "end_time": 656,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "28e43605-77b4-45d7-bbca-298aec7b4b34"
+    },
+    {
+      "start_time": 527,
+      "end_time": 656,
+      "annotation": [
+        {
+          "text": "Albert Lee speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "10c124f0-367f-4261-ab16-d40b6257b4f3"
+    },
+    {
+      "start_time": 656,
+      "end_time": 2486,
+      "annotation": [
+        {
+          "text": "4"
+        }
+      ],
+      "tags": [],
+      "uuid": "2f06ba2b-9847-48b3-9532-52e5dac63054"
+    },
+    {
+      "start_time": 656,
+      "end_time": 2486,
+      "annotation": [
+        {
+          "text": "Albert Lee, Jeremiah Padilla, and Sonya Baker perform"
+        }
+      ],
+      "tags": [],
+      "uuid": "287dcfee-a26c-4cdb-8a2a-0e5ef92bf2e5"
+    },
+    {
+      "start_time": 2486,
+      "end_time": 2627,
+      "annotation": [
+        {
+          "text": "5"
+        }
+      ],
+      "tags": [],
+      "uuid": "8db1cf83-fc38-4fe3-aa24-8722a209ce10"
+    },
+    {
+      "start_time": 2486,
+      "end_time": 2627,
+      "annotation": [
+        {
+          "text": "Sonya Baker speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "18e354f7-af8f-4bab-b245-1aa66af37ceb"
+    },
+    {
+      "start_time": 2627,
+      "end_time": 3183,
+      "annotation": [
+        {
+          "text": "6"
+        }
+      ],
+      "tags": [],
+      "uuid": "ef65be4a-a10c-4de3-a207-f5cde72f6007"
+    },
+    {
+      "start_time": 2627,
+      "end_time": 3183,
+      "annotation": [
+        {
+          "text": "Albert Lee, Jeremiah Padilla, and Sonya Baker perform"
+        }
+      ],
+      "tags": [],
+      "uuid": "7567fc3e-091a-4566-b568-ba719afb511a"
+    }
+  ]
+}
