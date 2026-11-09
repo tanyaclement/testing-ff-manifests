@@ -1,0 +1,271 @@
+{
+  "event_id": "b9599077-84d8-4c86-bc3e-74bc6d550967",
+  "source_id": "42a04496-f7cf-4d87-b922-379ab5714f18",
+  "set": "A Decade of Poetic Experiment_ 2014 to 2024, 2024 September 19 [UA0017-DO-0005] [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 434,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "b66beb8a-d9e3-4966-ac15-64e01b97b5f7"
+    },
+    {
+      "start_time": 0,
+      "end_time": 434,
+      "annotation": [
+        {
+          "text": "Opening remarks by Lauri Scheyer"
+        }
+      ],
+      "tags": [],
+      "uuid": "e7c35802-ca86-4d3f-8595-aa22d78f593a"
+    },
+    {
+      "start_time": 434,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "a34d5b46-9629-4981-aace-74a35bb55c65"
+    },
+    {
+      "start_time": 434,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "text": "C.S. Giscombe speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "89d2d9bc-b43b-4f46-9f56-baeacf57b034"
+    },
+    {
+      "start_time": 1222,
+      "end_time": 1226,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "f6a7fa08-eca8-4d86-8702-6163322b0a65"
+    },
+    {
+      "start_time": 1222,
+      "end_time": 1226,
+      "annotation": [
+        {
+          "text": "Lauri Scheyer speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "2650f8b8-e76b-4498-a207-cdef8f3ebe00"
+    },
+    {
+      "start_time": 1226,
+      "end_time": 1881,
+      "annotation": [
+        {
+          "text": "4"
+        }
+      ],
+      "tags": [],
+      "uuid": "905b98ad-02ce-41a8-bd4a-056035738c59"
+    },
+    {
+      "start_time": 1226,
+      "end_time": 1881,
+      "annotation": [
+        {
+          "text": "Duriel Harris speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "43f65821-aa8f-460a-a2ba-82a85f4c77b4"
+    },
+    {
+      "start_time": 1881,
+      "end_time": 1888,
+      "annotation": [
+        {
+          "text": "5"
+        }
+      ],
+      "tags": [],
+      "uuid": "7b733236-733e-46da-8076-59444cac7883"
+    },
+    {
+      "start_time": 1881,
+      "end_time": 1888,
+      "annotation": [
+        {
+          "text": "Lauri Scheyer speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "ee21a68b-b864-4c44-aa3b-405521c91654"
+    },
+    {
+      "start_time": 1888,
+      "end_time": 2705,
+      "annotation": [
+        {
+          "text": "6"
+        }
+      ],
+      "tags": [],
+      "uuid": "0a8e785a-4aa3-4d2a-92b9-8f29af777d1d"
+    },
+    {
+      "start_time": 1888,
+      "end_time": 2705,
+      "annotation": [
+        {
+          "text": "Meta DuEwa Jones speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "e37bb37e-c7be-4aac-b03d-e390eb456e05"
+    },
+    {
+      "start_time": 2705,
+      "end_time": 2708,
+      "annotation": [
+        {
+          "text": "7"
+        }
+      ],
+      "tags": [],
+      "uuid": "4efd0964-af70-4ede-b08a-a0296c84322e"
+    },
+    {
+      "start_time": 2705,
+      "end_time": 2708,
+      "annotation": [
+        {
+          "text": "Lauri Scheyer speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "9c2fdff0-2ad1-4459-9ffd-f372f57476b6"
+    },
+    {
+      "start_time": 2708,
+      "end_time": 3487,
+      "annotation": [
+        {
+          "text": "8"
+        }
+      ],
+      "tags": [],
+      "uuid": "95244f2c-e195-4ddf-9f02-982d485d3067"
+    },
+    {
+      "start_time": 2708,
+      "end_time": 3487,
+      "annotation": [
+        {
+          "text": "Mark McMorris speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "46766d2b-d455-4437-a2c4-9e84ccd66293"
+    },
+    {
+      "start_time": 3487,
+      "end_time": 3605,
+      "annotation": [
+        {
+          "text": "9"
+        }
+      ],
+      "tags": [],
+      "uuid": "25aac507-672b-4cfc-820f-52a4a0d02a88"
+    },
+    {
+      "start_time": 3487,
+      "end_time": 3605,
+      "annotation": [
+        {
+          "text": "Lauri Scheyer speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "961efeca-1808-42f1-b83c-7380d57edaa6"
+    },
+    {
+      "start_time": 3605,
+      "end_time": 4175,
+      "annotation": [
+        {
+          "text": "10"
+        }
+      ],
+      "tags": [],
+      "uuid": "cfee0baa-32b7-4ecd-8d88-1f50af838204"
+    },
+    {
+      "start_time": 3605,
+      "end_time": 4175,
+      "annotation": [
+        {
+          "text": "Aldon Nielsen"
+        }
+      ],
+      "tags": [],
+      "uuid": "d599d494-84be-42b5-898f-bd00d4a1c708"
+    },
+    {
+      "start_time": 4175,
+      "end_time": 4368,
+      "annotation": [
+        {
+          "text": "11"
+        }
+      ],
+      "tags": [],
+      "uuid": "f26b5cd5-5511-444f-9766-00fb15cf146c"
+    },
+    {
+      "start_time": 4175,
+      "end_time": 4368,
+      "annotation": [
+        {
+          "text": "Lauri Scheyer speaks with Will Alexander over the phone"
+        }
+      ],
+      "tags": [],
+      "uuid": "c0073470-ce2a-45ec-9f61-fd57855d55a1"
+    },
+    {
+      "start_time": 4368,
+      "end_time": 4386,
+      "annotation": [
+        {
+          "text": "12"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ea5f100-c3cb-4b50-a472-ba5319065a82"
+    },
+    {
+      "start_time": 4368,
+      "end_time": 4386,
+      "annotation": [
+        {
+          "text": "Closing remarks by Lauri Scheyer"
+        }
+      ],
+      "tags": [],
+      "uuid": "8b1e29c2-4b13-41b0-ba3c-c392f722839e"
+    }
+  ]
+}
