@@ -1,0 +1,249 @@
+{
+  "event_id": "f5da5fbb-4328-410c-a4ed-6a12f486c8f5",
+  "source_id": "a1908b72-4e6b-499e-a884-a5cd910f0546",
+  "set": "A Vital History_ The Cambridge Anthology Roundtable, 2024 September 21 [UA0017-DO-0016] [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 145,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "a8fb17c0-76f9-4a7c-a18e-219521de8e72"
+    },
+    {
+      "start_time": 0,
+      "end_time": 145,
+      "annotation": [
+        {
+          "text": "Opening remarks by Keith Leonard"
+        }
+      ],
+      "tags": [],
+      "uuid": "02dfdcae-7037-48e8-8fa7-3a94f757f611"
+    },
+    {
+      "start_time": 145,
+      "end_time": 450,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "963588fd-9557-455d-b970-52d84353abe1"
+    },
+    {
+      "start_time": 145,
+      "end_time": 450,
+      "annotation": [
+        {
+          "text": "Matt Sandler speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "fabde60d-bf68-4e9e-9b3c-905ab4f3ec1f"
+    },
+    {
+      "start_time": 450,
+      "end_time": 809,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "1e538df9-7b3b-425a-9b2a-d89d16ba2e37"
+    },
+    {
+      "start_time": 450,
+      "end_time": 809,
+      "annotation": [
+        {
+          "text": "Carlyn Ferrari speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "62a92f2a-c2df-4653-bdf0-e48089d76e4c"
+    },
+    {
+      "start_time": 809,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "text": "4"
+        }
+      ],
+      "tags": [],
+      "uuid": "6df8f9f4-00c1-44d3-979a-08e9c42a0329"
+    },
+    {
+      "start_time": 809,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "text": "Marta Werbanowska speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "6a94b93e-e5ad-457b-a1e2-964aab41cdf0"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "text": "5"
+        }
+      ],
+      "tags": [],
+      "uuid": "b66512e0-82ca-4b37-b7bf-e19134e602e8"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1759,
+      "annotation": [
+        {
+          "text": "Annette Debo speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "ff073a23-0a1f-4f6f-9de0-fbc596fb2b1b"
+    },
+    {
+      "start_time": 1759,
+      "end_time": 2307,
+      "annotation": [
+        {
+          "text": "6"
+        }
+      ],
+      "tags": [],
+      "uuid": "60604c47-3e50-4a17-92bb-dc6e55ab6a69"
+    },
+    {
+      "start_time": 1759,
+      "end_time": 2307,
+      "annotation": [
+        {
+          "text": "McKinley Melton speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "9dd1e54c-8a08-4ece-8996-c9f404b01954"
+    },
+    {
+      "start_time": 2307,
+      "end_time": 2695,
+      "annotation": [
+        {
+          "text": "7"
+        }
+      ],
+      "tags": [],
+      "uuid": "f604b326-59a1-41d6-8f16-580ec0321220"
+    },
+    {
+      "start_time": 2307,
+      "end_time": 2695,
+      "annotation": [
+        {
+          "text": "Emily Ruth Rutter speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "e7ce5f4d-56c2-44e4-ab38-bb5a2487a2f9"
+    },
+    {
+      "start_time": 2695,
+      "end_time": 2799,
+      "annotation": [
+        {
+          "text": "8"
+        }
+      ],
+      "tags": [],
+      "uuid": "5c9416a5-54e0-49ee-9799-88b658814cf1"
+    },
+    {
+      "start_time": 2695,
+      "end_time": 2799,
+      "annotation": [
+        {
+          "text": "Keith Leonard speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "da6888b2-ed47-4d16-bc95-439fc06358f6"
+    },
+    {
+      "start_time": 2799,
+      "end_time": 3326,
+      "annotation": [
+        {
+          "text": "9"
+        }
+      ],
+      "tags": [],
+      "uuid": "c7c22d0a-7294-46b0-89d8-24f3547f0dd4"
+    },
+    {
+      "start_time": 2799,
+      "end_time": 3326,
+      "annotation": [
+        {
+          "text": "The panel discusses the challenges of the public vs. private life of African American poets"
+        }
+      ],
+      "tags": [],
+      "uuid": "23cb9573-be40-4504-baa6-ba69ddea633e"
+    },
+    {
+      "start_time": 3326,
+      "end_time": 4210,
+      "annotation": [
+        {
+          "text": "10"
+        }
+      ],
+      "tags": [],
+      "uuid": "94947cff-f087-43ee-83d6-f0f24f45425b"
+    },
+    {
+      "start_time": 3326,
+      "end_time": 4210,
+      "annotation": [
+        {
+          "text": "Audience questions"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf614488-7360-4dae-beb3-1f97a79ee76e"
+    },
+    {
+      "start_time": 4210,
+      "end_time": 4228,
+      "annotation": [
+        {
+          "text": "11"
+        }
+      ],
+      "tags": [],
+      "uuid": "29807f2f-ee82-485a-9f2b-b263801236a4"
+    },
+    {
+      "start_time": 4210,
+      "end_time": 4228,
+      "annotation": [
+        {
+          "text": "Closing remarks by Keith Leonard"
+        }
+      ],
+      "tags": [],
+      "uuid": "142843a3-5e19-4b69-91d3-87bacf124479"
+    }
+  ]
+}
