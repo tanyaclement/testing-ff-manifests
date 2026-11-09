@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "ffd5527f-8644-4f85-8f27-bcca65619dbc": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/311/433/original/content.mpga?1780348303",
+      "duration": 5441.85469,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-11-09T15:04:59.625Z",
+  "created_by": "tanyaclement",
+  "label": "Media File 1 of 1 - content.mpga",
+  "updated_at": "2026-11-09T15:04:59.625Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}
