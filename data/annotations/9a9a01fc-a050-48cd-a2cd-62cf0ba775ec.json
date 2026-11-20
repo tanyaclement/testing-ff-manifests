@@ -49,11 +49,16 @@
       "end_time": 37.32,
       "annotation": [
         {
-          "text": "Uknown speaker:",
-          "bold": true
-        },
-        {
-          "text": " : A pound is how we describe and embrace that disguises emotion."
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uknown speaker:",
+              "bold": true
+            },
+            {
+              "text": " : A pound is how we describe and embrace that disguises emotion. What's going on??"
+            }
+          ]
         }
       ],
       "tags": [],
