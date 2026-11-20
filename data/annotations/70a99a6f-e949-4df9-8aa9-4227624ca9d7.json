@@ -8,11 +8,16 @@
       "end_time": 9.82,
       "annotation": [
         {
-          "text": "Marilyn Nelson:",
-          "bold": true
-        },
-        {
-          "text": " : home. Elementary molecules converged for a breath, then danced on beyond my individual death."
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marilyn Nelson:",
+              "bold": true
+            },
+            {
+              "text": " : home. Elementary molecules converged for a breath, then danced on beyond my individual death. Is it working? "
+            }
+          ]
         }
       ],
       "tags": [],
