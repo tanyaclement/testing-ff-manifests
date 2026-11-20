@@ -1085,11 +1085,16 @@
       "end_time": 250.66,
       "annotation": [
         {
-          "text": "Uknown speaker:",
-          "bold": true
-        },
-        {
-          "text": " So who's got the highest body count?"
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uknown speaker:",
+              "bold": true
+            },
+            {
+              "text": " So who's got the highest body count? Still good? "
+            }
+          ]
         }
       ],
       "tags": [],
